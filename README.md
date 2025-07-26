@@ -1,12 +1,6 @@
 # Advanced-RAG-Series
 This repository contains advanced LLM-based chatbots for Retrieval Augmented Generation (RAG) and Q&A with different databases. (VectorDB, GraphDB, SQLite, CSV, XLSX, etc.). The repository provides guide on using both AzureOpenAI and OpenAI API for each project. Each project is accompanied with a YouTube video that explains all the details. The link to the videos are provided in each section.
 
-## List of projects:
-- [x] [LangGraph_1o1_Agentic_Customer_Support](#LangGraph_1o1_Agentic_Customer_Support)
-- [x] [AgentGraph-Intelligent-Q&A-and-RAG-System](#AgentGraph-Intelligent-Q&A-and-RAG-System)
-- [x] [Q&A-and-RAG-with-SQL-and-TabularData](#Q&A-and-RAG-with-SQL-and-TabularData)
-- [x] [KnowledgeGraph-Q&A-and-RAG-with-TabularData](#KnowledgeGraph-Q&A-and-RAG-with-TabularData)
-
 ## General structure of the projects:
 
 ```
@@ -107,4 +101,4 @@ This project demonstrates how to build an agentic system using Large Language Mo
 - Movie dataset: [Link](https://raw.githubusercontent.com/tomasonjo/blog-datasets/main/movies/movies_small.csv)
 - Medical reports dataset: [Link](https://github.com/neo4j-partners/neo4j-generative-ai-azure/tree/main/ingestion/data)
 
-**YouTube video:**: [Link](https://youtu.be/3NP1llvtrbI?si=pcL3_StQvqjjnkm9)
+
