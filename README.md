@@ -43,7 +43,7 @@ LangGraph_1o1_Agentic_Customer_Support is a project designed to demonstrate how 
 - Workflow Integration: Combines multiple workflows into one seamless system, including web search, SQL database operations, and RAG on vector databases.
 - Design strategies: Explores various strategies to address challenges and optimize system performance.
 
-**YouTube video:**: [Link](TBD)
+
 
 <!-- ========================================= -->
 <!-- AgentGraph-Intelligent-Q&A-and-RAG-System -->
@@ -60,7 +60,6 @@ This project demonstrates how to build an agentic system using Large Language Mo
 - Scalable for large databases.
 - Easily connects to multiple databases.
 
-**YouTube video:**: [Link](https://youtu.be/xsCedrNP9w8?si=LdX45fMZuGhMCEoq)
 
 
 
@@ -83,7 +82,6 @@ This project demonstrates how to build an agentic system using Large Language Mo
 - Cancer dataset: [Link](https://www.kaggle.com/datasets/rohansahana/breast-cancer-dataset-for-beginners?select=train.csv)
 - Chinook SQL database: [Link](https://database.guide/2-sample-databases-sqlite/)
 
-**YouTube video:** [Link](https://youtu.be/ZtltjSjFPDg?si=YdIeYcFeP4yzTXKQ)
 
 <!-- =========================================== -->
 <!-- KnowledgeGraph-Q&A-and-RAG-with-TabularData -->
